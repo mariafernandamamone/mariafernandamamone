@@ -1,44 +1,44 @@
-Hi, I’m María Fernanda Mamone 👋  
-I’m a WordPress Frontend Developer with a strong foundation in HTML, CSS/Sass, and JavaScript, and training in Python for backend and automation.  
-I mainly work with WordPress + Elementor, building clear, functional, business-oriented websites, and I’m currently deepening my frontend development with code and Python.
+# Hi, I’m María Fernanda Mamone 👋  
+  I’m a WordPress Frontend Developer with a strong foundation in HTML, CSS/Sass, and JavaScript, and training in Python for backend and automation.  
+  I mainly work with WordPress + Elementor, building clear, functional, business-oriented websites, and I’m currently deepening my frontend development with code and Python.
 
-🧩 Specialization  
-WordPress Frontend (Elementor + custom CSS)  
-Responsive layout (HTML, CSS, Sass)  
-UI implementation from design  
-Python (Django basics & scripts)  
-WooCommerce (setup and visual customization)  
+## 🧩 Specialization  
+- WordPress Frontend (Elementor + custom CSS)  
+- Responsive layout (HTML, CSS, Sass)  
+- UI implementation from design  
+- Python (Django basics & scripts)  
+- WooCommerce (setup and visual customization)  
 
-🛠️ Technologies  
-HTML5 · CSS3 · Sass  
-JavaScript  
-WordPress · Elementor · WooCommerce  
-Python · Django (training level)  
-Git · GitHub  
+## 🛠️ Technologies  
+- HTML5 · CSS3 · Sass  
+- JavaScript  
+- WordPress · Elementor · WooCommerce  
+- Python · Django (training level)  
+- Git · GitHub  
 
-📂 Featured Projects  
+## 📂 Featured Projects  
 
-🔊 Audiophile — Frontend / Figma to Web Project  
+- 🔊 Audiophile — Frontend / Figma to Web Project  
 Visual implementation project based on a Figma design.  
 Focused on layout, responsive design, structure, and customization.  
 
-🟢 iupi — Healthy snacks e-commerce  
+- 🟢 Iupi — Healthy snacks e-commerce  
 WordPress site built with Elementor and custom CSS.  
 Focused on structure, styling, and user experience.  
 
 🔗 Website: https://iupisnaksricosysaludables.com.ar  
 
-Frontend Projects (CSS / Sass / Vite)  
+- Frontend Projects (CSS / Sass / Vite)  
 Frontend layout and styling focused on responsive design based on Figma layouts.  
 
 (Technical repositories are available below)  
 
-🌱 Continuous Learning  
+## 🌱 Continuous Learning  
 Currently deepening skills in:  
 
-Frontend development in WordPress using child themes  
-Python applied to backend and automation  
-Best practices for project organization and documentation  
+- Frontend development in WordPress using child themes  
+- Python applied to backend and automation  
+- Best practices for project organization and documentation  
 
 🔗 Contact  
 LinkedIn: https://www.linkedin.com/in/maría-fernanda-a385ab317
@@ -77,7 +77,7 @@ Proyecto de implementación visual basado en diseño Figma.
 Enfoque en maquetación, responsive design, estructura y personalización. 
 
 
-### 🟢 iupi — Snacks ricos y saludables
+### 🟢 Iupi — Snacks ricos y saludables
 
 Sitio WordPress desarrollado con Elementor y CSS personalizado.  
 Enfoque en estructura, estilos y experiencia de usuario.
