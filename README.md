@@ -24,16 +24,24 @@ Trabajo principalmente con **WordPress + Elementor**, creando sitios claros, fun
 ---
 
 ## 📂 Proyectos destacados
-- **iupi – Snacks ricos y saludables**  
-  Sitio WordPress desarrollado con Elementor y CSS personalizado.  
-  Enfoque en estructura, estilos y experiencia de usuario.  
-  🔗 https://iupisnaksricosysaludables.com.ar
+# 🔊 Audiophile — Frontend / Figma to Web Project
 
-- **Audiophile — Figma to WordPress / Frontend Project**
-  Proyecto de implementación visual basado en diseño Figma.
-  Enfoque en maquetación, responsive design, estructura y personalización en WordPress / Elementor.
+Proyecto de implementación visual basado en diseño Figma.  
+Enfoque en maquetación, responsive design, estructura y personalización.
 
-- **Proyectos Frontend (CSS / Sass / Vite)**  
+🔗 Repositorio: *(agregar link cuando esté)*  
+🔗 Demo: *(agregar link cuando el dominio funcione)*  
+
+
+# 🟢 iupi — Snacks ricos y saludables
+
+Sitio WordPress desarrollado con Elementor y CSS personalizado.  
+Enfoque en estructura, estilos y experiencia de usuario.
+
+🔗 Sitio web: https://iupisnaksricosysaludables.com.ar
+
+
+# **Proyectos Frontend (CSS / Sass / Vite)**  
   Maquetación y estilos frontend con foco en responsive basados en diseños Figma.
 
 *(Los repositorios técnicos están disponibles más abajo)*
