@@ -29,8 +29,12 @@ Trabajo principalmente con **WordPress + Elementor**, creando sitios claros, fun
   Enfoque en estructura, estilos y experiencia de usuario.  
   🔗 https://iupisnaksricosysaludables.com.ar
 
+- **Audiophile — Figma to WordPress / Frontend Project**
+  Proyecto de implementación visual basado en diseño Figma.
+  Enfoque en maquetación, responsive design, estructura y personalización en WordPress / Elementor.
+
 - **Proyectos Frontend (CSS / Sass / Vite)**  
-  Maquetación y estilos frontend con foco en responsive y organización del código.
+  Maquetación y estilos frontend con foco en responsive basados en diseños Figma.
 
 *(Los repositorios técnicos están disponibles más abajo)*
 
