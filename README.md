@@ -20,7 +20,9 @@
 
 - 🔊 Audiophile — Frontend / Figma to Web Project  
 Visual implementation project based on a Figma design.  
-Focused on layout, responsive design, structure, and customization.  
+Focused on layout, responsive design, structure, and customization.
+
+🔗 Website: https://audiophile.uno
 
 - 🟢 Iupi — Healthy snacks e-commerce  
 WordPress site built with Elementor and custom CSS.  
@@ -41,7 +43,7 @@ Currently deepening skills in:
 - Best practices for project organization and documentation  
 
 🔗 Contact  
-LinkedIn: https://www.linkedin.com/in/maría-fernanda-a385ab317
+LinkedIn: www.linkedin.com/in/mfmamone
 
 ---
 
@@ -76,6 +78,7 @@ Trabajo principalmente con **WordPress + Elementor**, creando sitios claros, fun
 Proyecto de implementación visual basado en diseño Figma.  
 Enfoque en maquetación, responsive design, estructura y personalización. 
 
+🔗 Website: https://audiophile.uno
 
 ### 🟢 Iupi — Snacks ricos y saludables
 
@@ -101,5 +104,5 @@ Actualmente profundizando en:
 ---
 
 ## 🔗 Contacto
-- LinkedIn: https://www.linkedin.com/in/maría-fernanda-a385ab317
+LinkedIn: www.linkedin.com/in/mfmamone
 
