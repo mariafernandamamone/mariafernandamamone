@@ -1,108 +1,44 @@
-# Hi, I’m María Fernanda Mamone 👋  
-  I’m a WordPress Frontend Developer with a strong foundation in HTML, CSS/Sass, and JavaScript, and training in Python for backend and automation.  
-  I mainly work with WordPress + Elementor, building clear, functional, business-oriented websites, and I’m currently deepening my frontend development with code and Python.
+# Hi, I’m María Fernanda Mamone 👋
 
-## 🧩 Specialization  
-- WordPress Frontend (Elementor + custom CSS)  
-- Responsive layout (HTML, CSS, Sass)  
-- UI implementation from design  
-- Python (Django basics & scripts)  
-- WooCommerce (setup and visual customization)  
+Fullstack Developer currently completing a Master’s program in Web Development at Conquer Blocks Academy.
 
-## 🛠️ Technologies  
-- HTML5 · CSS3 · Sass  
-- JavaScript  
-- WordPress · Elementor · WooCommerce  
-- Python · Django (training level)  
-- Git · GitHub  
-
-## 📂 Featured Projects  
-
-- 🔊 Audiophile — Frontend / Figma to Web Project  
-Visual implementation project based on a Figma design.  
-Focused on layout, responsive design, structure, and customization.
-
-🔗 Website: https://audiophile.uno
-
-- 🟢 Iupi — Healthy snacks e-commerce  
-WordPress site built with Elementor and custom CSS.  
-Focused on structure, styling, and user experience.  
-
-🔗 Website: https://iupisnaksricosysaludables.com.ar  
-
-- Frontend Projects (CSS / Sass / Vite)  
-Frontend layout and styling focused on responsive design based on Figma layouts.  
-
-(Technical repositories are available below)  
-
-## 🌱 Continuous Learning  
-Currently deepening skills in:  
-
-- Frontend development in WordPress using child themes  
-- Python applied to backend and automation  
-- Best practices for project organization and documentation  
-
-🔗 Contact  
-LinkedIn: www.linkedin.com/in/mfmamone
+I build responsive websites and e-commerce solutions with a focus on clean structure, scalable styling and real-world implementation.
 
 ---
 
-# Hola, soy María Fernanda Mamone 👋
+## 🚀 What I Do
 
-Soy **Desarrolladora Frontend WordPress** con base en **HTML, CSS/Sass y JavaScript**, y formación en **Python** para backend y automatización.  
-Trabajo principalmente con **WordPress + Elementor**, creando sitios claros, funcionales y orientados a negocio, y estoy profundizando en desarrollo frontend con código y Python.
-
----
-
-## 🧩 Especialización
-- WordPress Frontend (Elementor + CSS personalizado)
-- Maquetación responsive (HTML, CSS, Sass)
-- Integración de estilos y UI desde diseño
-- Python (bases en Django y scripts)
-- WooCommerce (configuración y personalización visual)
+- Build responsive interfaces using HTML, Sass and modern tooling  
+- Develop and customize WordPress websites and e-commerce (WooCommerce)  
+- Focus on clean UI, maintainable code and scalable architecture  
 
 ---
 
-## 🛠️ Tecnologías
-- HTML5 · CSS3 · Sass  
-- JavaScript  
-- WordPress · Elementor · WooCommerce  
-- Python · Django (nivel formativo)  
-- Git · GitHub  
+## 🛠 Tech Stack
+
+- HTML5  
+- CSS / Sass (SCSS)  
+- JavaScript (ES6+)  
+- Vite  
+- Git & GitHub  
+- WordPress (Elementor + WooCommerce)  
 
 ---
 
-## 📂 Proyectos destacados
-### 🔊 Audiophile — Frontend / Figma to Web Project
+## 🌐 Portfolio
 
-Proyecto de implementación visual basado en diseño Figma.  
-Enfoque en maquetación, responsive design, estructura y personalización. 
-
-🔗 Website: https://audiophile.uno
-
-### 🟢 Iupi — Snacks ricos y saludables
-
-Sitio WordPress desarrollado con Elementor y CSS personalizado.  
-Enfoque en estructura, estilos y experiencia de usuario.
-
-🔗 Sitio web: https://iupisnaksricosysaludables.com.ar
-
-
-### **Proyectos Frontend (CSS / Sass / Vite)**  
-  Maquetación y estilos frontend con foco en responsive basados en diseños Figma.
-
-*(Los repositorios técnicos están disponibles más abajo)*
+👉 https://mariafernandamamone.github.io  
 
 ---
 
-## 🌱 En aprendizaje continuo
-Actualmente profundizando en:
-- Desarrollo frontend en WordPress mediante child themes
-- Python aplicado a backend y automatización
-- Mejores prácticas de organización y documentación de proyectos
+## 📌 Featured Work
+
+- **Iupi Snacks** – Real e-commerce website  
+- **ConquerBlocks** – Multipage layout project  
+- **Portfolio Website** – Built with Vite + Sass  
 
 ---
 
-## 🔗 Contacto
-LinkedIn: www.linkedin.com/in/mfmamone
+## 📫 Connect with Me
 
+- LinkedIn: https://www.linkedin.com/in/mfmamone/
