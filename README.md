@@ -27,7 +27,7 @@ I build responsive websites and e-commerce solutions with a focus on clean struc
 
 ## 🌐 Portfolio
 
-👉 https://mariafernandamamone.github.io  
+👉 https://mariafernandamamone.github.io/Fernanda-Mamone-Portfolio/
 
 ---
 
