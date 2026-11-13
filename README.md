@@ -35,7 +35,8 @@ I build responsive websites and e-commerce solutions with a focus on clean struc
 
 - **Iupi Snacks** – Real e-commerce website  
 - **ConquerBlocks** – Multipage layout project  
-- **Portfolio Website** – Built with Vite + Sass  
+- **Portfolio Website** – Built with Vite + Sass
+- **JavaScript Events Workshop** – Interactive DOM & events challenges (JS + Sass)
 
 ---
 
