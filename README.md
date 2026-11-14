@@ -8,9 +8,10 @@ I build responsive websites and e-commerce solutions with a focus on clean struc
 
 ## 🚀 What I Do
 
-- Build responsive interfaces using HTML, Sass and modern tooling  
-- Develop and customize WordPress websites and e-commerce (WooCommerce)  
-- Focus on clean UI, maintainable code and scalable architecture  
+- Build responsive interfaces using HTML, Sass, and modern tooling  
+- Develop interactive web applications and modular logic with vanilla JavaScript (ES6+, DOM, OOP)  
+- Develop and customize WordPress websites and e-commerce stores (WooCommerce)  
+- Focus on clean UI, maintainable code, and scalable architecture 
 
 ---
 
@@ -33,10 +34,12 @@ I build responsive websites and e-commerce solutions with a focus on clean struc
 
 ## 📌 Featured Work
 
-- **Iupi Snacks** – Real e-commerce website  
-- **ConquerBlocks** – Multipage layout project  
-- **Portfolio Website** – Built with Vite + Sass
-- **JavaScript Events Workshop** – Interactive DOM & events challenges (JS + Sass)
+- **[Iupi Snacks](https://iupisnaksricosysaludables.com.ar/)** – Real production e-commerce website (WordPress + WooCommerce)  
+- **[JavaScript Events Workshop](https://mariafernandamamone.github.io/js-events-workshop/)** – Interactive DOM manipulation & event-handling challenges (JS + Sass)  
+- **[RPG OOP Combat Engine](https://github.com/mariafernandamamone/rpg-oop-javascript)** – Console-based turn-based RPG built with Object-Oriented JavaScript (Source Code)  
+- **[ConquerBlocks](https://mariafernandamamone.github.io/ConquerBlocks-Website/)** – Multipage institutional website built with modular Sass architecture  
+- **[CSS Responsive Portfolio](https://mariafernandamamone.github.io/CSS-Responsive-Portfolio/)** – Responsive portfolio layout built strictly with HTML5 & CSS3  
+- **[Audiophile](https://audiophile.uno/)** – E-commerce UI & layout project (WordPress, Elementor & WooCommerce)
 
 ---
 
