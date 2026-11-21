@@ -33,4 +33,5 @@ I build interactive web applications, responsive interfaces, and e-commerce solu
 
 - **Portfolio:** https://mariafernandamamone.github.io/Fernanda-Mamone-Portfolio/
 - **LinkedIn:** https://www.linkedin.com/in/mfmamone/
+- **Telegram:** https://t.me/mfmamone
 - **Email:** [mariafrenchitas@gmail.com](mailto:mariafrenchitas@gmail.com)
